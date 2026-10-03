@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-cloudflare.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-cloudflare) or the [upstream repository](https://github.com/Nearata/flarum-ext-cloudflare).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/nearata-flarum-ext-cloudflare/tree/archive/v1.1.0) · License: `Unlicense` · Flarum: `^1.7`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/nearata-flarum-ext-cloudflare/tree/archive/v1.1.0) · License: `Unlicense` · Flarum: `^1.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-03-19 | `^1.7.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cloudflare/tree/archive/v1.0.0) |
+| `1.1.0` | 2023-05-31 | `^1.7` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cloudflare/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/nearata-flarum-ext-cloudflare.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-cloudflare.json)
 
